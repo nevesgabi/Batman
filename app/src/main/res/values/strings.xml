@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Batman</string>
+    <string name="btnbat">Batman</string>
+    <string name="btnsuperman">Superman</string>
+    <string name="btnmumara">Mulher Maravilha</string>
+    <string name="btnaqua">Aquaman</string>
+    <string name="btnsaiba">Aperte e saiba mais sobre o grupo que esses heróis participam!</string>
+    <string name="txtenunciado">Aperte um dos botões abaixo para saber mais sobre os heróis:</string>
+    <string name="txtbat">Batman</string>
+    <string name="txtmara">Mulher Maravilha</string>
+    <string name="txtaquame">Aquaman</string>
+    <string name="txtman">Superman</string>
+    <string name="txtnome">Nome:</string>
+    <string name="txtcodinome">Codinome: </string>
+    <string name="txthabilidade">Habilidades:</string>
+    <string name="txtvul">Vulnerabilidades:</string>
+    <string name="equipa">Equipamento</string>
+    <string name="txtnomeequipa">Nome do equipamento:</string>
+    <string name="txtdescequipa">Descrição do equipamento:</string>
+    <string name="txtfinalequipa">Finalidade do equipamento:</string>
+    <string name="txtnivel_acesso">Nível de acesso:</string>
+    <string name="txtesp">Espécie:</string>
+
+    <string name="conteudonomebat">Bruce Wayne</string>
+    <string name="conteudocodibat">Batman</string>
+    <string name="conteudoesphum">Humano</string>
+    <string name="conteudonomeequipabat">traje do Batman</string>
+    <string name="conteudofinalequipabat">à prova de bala, resistente ao fogo e isolamento térmico</string>
+    <string name="contdescequipabat">traje que cobre quase todo o corpo</string>
+    <string name="conthabbat">Inteligência avançada</string>
+    <string name="contvulbat">Ser um humano</string>
+    <string name="contnivelbat">3</string>
+
+    <string name="conteudonomesuper"> Clark Kent </string>
+    <string name="conteudocodisuper"> Super man</string>
+    <string name="conteudoespkrip">Kryptoniano </string>
+    <string name="conteudonomeequipasuper">óculos </string>
+    <string name="conteudodescequipasuper"> óculos comuns</string>
+    <string name="conteudofinalequipasuper">disfarce da identidade real </string>
+    <string name="conteudohabsuper">Super audição </string>
+    <string name="conteudovulsuper"> Kriptonita</string>
+    <string name="conteudonivel">2 </string>
+
+    <string name="conteudonomemara"> Diana Cristina de Medeiros </string>
+    <string name="conteudocodimara"> Mulher Maravilha</string>
+    <string name="conteudonomeequipamara"> Laço da verdade </string>
+    <string name="conteudodescequipamara">Um laço dourado que obriga as pessoas a dizerem a verdade</string>
+    <string name="conteudofinalequipamara">descobrir a verdade de pessoas más </string>
+    <string name="conteudohabmara">Voo </string>
+    <string name="conteudovulmara">Armas perfurantes </string>
+
+    <string name="conteudonomeaqua"> Arthur Curry </string>
+    <string name="conteudocodiaqua"> Aquaman</string>
+    <string name="conteudoespatlan">Atlante </string>
+    <string name="conteudonomeequipaaqua"> água-projetores </string>
+    <string name="conteudodescequipaaqua"> armas utilizadas pelo Aquaman</string>
+    <string name="conteudofinalequipaaqua"> permitem-lhe criar construções de água sólida, além de usar qualquer fluído</string>
+    <string name="conteudohabaqua">Comunicação com peixes </string>
+    <string name="conteudovulaqua"> Ficar longe da água</string>
+
+
+
+
+</resources>
